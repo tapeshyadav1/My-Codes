@@ -12,7 +12,7 @@ Work experience
 
 * Isolated and cleaned big data obtained from protein sequencing (≈ 10^9 data points). Increased protein analysis speed by ≈ 10 times by using faster clustering methods (from sklearn), applying feature engineering and improved sampling methods (using KL-Divergence)Isolated and cleaned big data from protein sequencing (≈ 10^9 data points). Increased protein analysis speed by ≈ 10 times by using faster clustering methods (from sklearn), applying feature engineering and improved sampling methods (using KL-Divergence)
 
-3. 
+3. You are the one.
 
  
 
