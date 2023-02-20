@@ -1,0 +1,20 @@
+Work experience
+
+1. Graduate Research and Teaching assistant
+
+* Maintaining website for undergraduate courses.
+* Cleaning and processing student data in excel.
+* Research in mathematics with focus on random matrics, combinatorics and topological data analysis.
+* Seminar organization.
+
+2. Bioinformatics Research Intern (Oct 2022-now)
+   Department of Microbiology and Cell Science, University of Florida 
+
+* Isolated and cleaned big data obtained from protein sequencing (≈ 10^9 data points). Increased protein analysis speed by ≈ 10 times by using faster clustering methods (from sklearn), applying feature engineering and improved sampling methods (using KL-Divergence)Isolated and cleaned big data from protein sequencing (≈ 10^9 data points). Increased protein analysis speed by ≈ 10 times by using faster clustering methods (from sklearn), applying feature engineering and improved sampling methods (using KL-Divergence)
+
+3. 
+
+ 
+
+
+
